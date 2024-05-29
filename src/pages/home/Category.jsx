@@ -34,8 +34,8 @@ const Category = () => {
         </div>
         <div className='md:w-1/2'>
           <div className='grid grid-cols-2 gap-2'>
-            <Link to="/"><img src={companyLogo[1].img} alt="" className='w-full hover:scale-105 transition-all duration-200' /></Link>
-            <Link to="/"><img src={companyLogo[2].img} alt="" className='w-full hover:scale-105 transition-all duration-200' /></Link>
+            <Link to="/"><img src="/public/Images/category/image2.png" alt="" className='w-full hover:scale-105 transition-all duration-200' /></Link>
+            <Link to="/"><img src="/public/Images/category/image3.png" alt="" className='w-full hover:scale-105 transition-all duration-200' /></Link>
             <Link to="/"><img src="/public/Images/category/image4.png" alt="" className='w-full hover:scale-105 transition-all duration-200' /></Link>
             <Link to="/"><img src="/public/Images/category/image5.png" alt="" className='w-full hover:scale-105 transition-all duration-200' /></Link>
           </div>
